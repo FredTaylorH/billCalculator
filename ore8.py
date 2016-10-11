@@ -306,3 +306,6 @@ print('Post solar PPA bill is:', cumulativePostSolarPpaBill)
 print('Savings is: ',savings)
 print('')
 
+#FOO
+
+	
